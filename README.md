@@ -8,7 +8,9 @@ To onboard a new company (e.g., amazon.ordermade.com):
 **Subdomain Handling:** The app extracts the subdomain dynamically (window.location.hostname.split(".")[0]) to display relevant data.
 
 
-![Alt Text](assets/amazon.png)
+![Alt Text](src/assets/AmazonSS.png)
+![Alt Text](src/assets/DarazSS.png)
+![Alt Text](src/assets/FoodpandaSS.png)
 
 
 
